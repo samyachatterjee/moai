@@ -1,6 +1,7 @@
 
 # moai
 :moyai: Pharmaceutical competitive intelligence through product website FDA OPDP update frequency.
+please follow the instructions below:
 
 ![Moai](moai.jpg)
 
